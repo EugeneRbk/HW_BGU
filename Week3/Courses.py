@@ -10,7 +10,7 @@ def main():
     
     try:
     
-        TEXT_PATH = '/home/eugene/Python/BGU/KOBA/HW/3/input.txt'
+        TEXT_PATH = 'input.txt'
     
         file = opening(TEXT_PATH)
         
