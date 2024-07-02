@@ -8,9 +8,9 @@ Created on Sat Jun 22 17:14:47 2024
 
 def main():
     
-    TEXT1_PATH = '/home/eugene/Python/BGU/KOBA/HW/2/input1.txt'
-    TEXT2_PATH = '/home/eugene/Python/BGU/KOBA/HW/2/input2.txt'
-    SAVE_PATH = '/home/eugene/Python/BGU/KOBA/HW/2/output.txt'
+    TEXT1_PATH = 'input1.txt'
+    TEXT2_PATH = 'input2.txt'
+    SAVE_PATH = 'output.txt'
     
     try:
         
