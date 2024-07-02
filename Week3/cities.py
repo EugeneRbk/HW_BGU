@@ -9,8 +9,8 @@ Created on Wed Jun 26 18:47:51 2024
 def main():
     try:
         
-        TEXT_PATH = '/home/eugene/Python/BGU/KOBA/HW/3/cities.txt'
-        SAVE_PATH = '/home/eugene/Python/BGU/KOBA/HW/3/filtered_cities.txt'
+        TEXT_PATH = 'cities.txt'
+        SAVE_PATH = 'filtered_cities.txt'
         
         lcity = opening(TEXT_PATH)
         print(lcity)
