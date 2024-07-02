@@ -8,8 +8,8 @@ Created on Thu Jun 20 17:12:00 2024
 
 def main():
     
-    TEXT_PATH = '/home/eugene/Python/BGU/KOBA/HW/2/input.txt'
-    SAVE_PATH = '/home/eugene/Python/BGU/KOBA/HW/2/output.txt'
+    TEXT_PATH = 'input.txt'
+    SAVE_PATH = 'output.txt'
     
     try:
     
